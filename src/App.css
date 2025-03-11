@@ -1,0 +1,12 @@
+:root {
+    --primary-background-color: #F3F4F6;
+    --primary-text-color: #1E3A8A;
+    --secondary-color: #3B82F6;
+    --card-background-color: #FFFFFF;
+    --price-color: #16A34A;
+    --error-color: #DC2626;
+}
+body {
+    background-color: var(--primary-background-color);
+    color: var(--primary-text-color);
+}
